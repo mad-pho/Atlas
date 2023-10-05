@@ -182,7 +182,7 @@ BabbleZone:RegisterTranslations("enUS", function()
 		-- Turtle WoW
 		["Amani'alor"] = true,
 		["Tel'Abim"] = true,
-		["Alah'thalas"] = true,
+		["Alah'Thalas"] = true,
 		["Lapidis Isle"] = true,
 		["Gillijim's Isle"] = true,
 		["Scarlet Enclave"] = true,
