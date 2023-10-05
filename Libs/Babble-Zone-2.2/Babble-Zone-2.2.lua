@@ -180,7 +180,7 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Zul'Aman"] = true,
 
 		-- Turtle WoW
-		["Amani'alor"] = true,
+		["Amani'Alor"] = true,
 		["Tel'Abim"] = true,
 		["Alah'Thalas"] = true,
 		["Lapidis Isle"] = true,
