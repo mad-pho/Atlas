@@ -291,7 +291,11 @@ BabbleBoss:RegisterTranslations("enUS", function()
 		-- CavernsOfTimeBlackMorass TurtleWOW
 		["Chronar"] = true,
 		["Harbinger Aph'ygth"] = true,
+		["Epidamu"] = true,
+		["Drifting Avatar of Sand"] = true,
 		["Time-Lord Epochronos"] = true,
+		["Mossheart"] = true,
+		["Rotmaw"] = true,
 		["Antnormi"] = true,
 		["Infinite Chromie"] = true,
 		-- StormwindVault TurtleWOW
@@ -302,6 +306,29 @@ BabbleBoss:RegisterTranslations("enUS", function()
 		["Volkan Cruelblade"] = true,
 		["Arc'tiras"] = true,
 		["Vault Armory Equipment"] = true,
+		-- GilneasCity TurtleWOW 1.17.0
+		["Matthias Holtz"] = true,
+		["Packmaster Ragetooth"] = true,
+		["Judge Sutherland"] = true,
+		["Dustivan Blackcowl"] = true,
+		["Marshal Magnus Greystone"] = true,
+		["Horsemaster Levvin"] = true,
+		["Harlow Family Chest"] = true,
+		["Genn Greymane"] = true,
+		-- LowerKara TurtleWOW 1.17.0
+		["Master Blacksmith Rolfen"] = true,
+		["Brood Queen Araxxna"] = true,
+		["Grizikil"] = true,
+		["Clawlord Howlfang"] = true,
+		["Lord Blackwald II"] = true,
+		["Moroes"] = true,
+		["Harlow Family Chest"] = true,
+		["Genn Greymane"] = true,
+		-- EmeraldSanctum TurtleWOW 1.17.0
+		["Erennius"] = true,
+		["Solnius the Awakener"] = true,
+		["Solnius the Awakener (Page 2)"] = true,
+		["Clawlord Howlfang"] = true,
 		-------------------------------------
 		["Lorgus Jett"] = true,
 		["Baron Aquanis"] = true,
