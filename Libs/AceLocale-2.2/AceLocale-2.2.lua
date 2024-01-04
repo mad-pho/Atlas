@@ -338,7 +338,8 @@ function AceLocale.prototype:GetReverseTranslation(text)
 	end
 	local translation = x[text]
 	if not translation then
-		AceLocale.error(self, "Reverse translation for %q does not exist", text)
+		--AceLocale.error(self, "Reverse translation for %q does not exist", text)
+		return text
 	end
 	return translation
 end
